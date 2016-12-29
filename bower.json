@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/jotajotavix/responsivo_primeiro.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "jotajotavix"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
